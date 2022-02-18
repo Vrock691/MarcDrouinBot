@@ -1,4 +1,3 @@
-
 - je frappe toujours du mauvais côté de la porte, on croit je veux entrer mais je veux sortir
 - j'suis venu au monde la tête en bas dans un ascenceur qui montait, j'ai trouvé le sens de ma vie, le sens de l'humour qui va par-là <- ->
 - c'est un gars ou une fille ? non, est-ce que mon enfant a un look ?
@@ -48,7 +47,6 @@
 - les bienfaits de la natation sèche et de la marche assise
 - j'ai vu tous les films au cinéma: y'a pas de cul, de drogues de violence. Y'a beaucoup mieux à la maison
 - Sylvester l'étalon
----
 - que mes bisceps se dégonflent
 - jumping jacks
 - thèmes intergalactiques
@@ -63,4 +61,3 @@
 - un duo toute seule
 - une question de peeling
 - que l'orgie continue AAAAOUAAARIAOUA *END*
-

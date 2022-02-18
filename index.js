@@ -1,11 +1,9 @@
 require('dotenv').config()
-const CLIENT_ID = "944245469666754580";
-const GUILD_ID = "847865717360951336";
-
 const { SlashCommandBuilder } = require('@discordjs/builders');
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 const { Client, Intents } = require('discord.js');
+const fs = require('fs');
 
 const commands = [
     new SlashCommandBuilder().setName('quote').setDescription('Answer with a quote from Marc Droin!'),
@@ -13,9 +11,11 @@ const commands = [
 
 const rest = new REST({ version: '9' }).setToken(process.env.TOKEN);
 
-rest.put(Routes.applicationGuildCommands(CLIENT_ID, GUILD_ID), { body: commands })
+rest.put(Routes.applicationGuildCommands(process.env.CLIENT_ID, process.env.GUILD_ID), { body: commands })
     .then(() => console.log('Successfully registered application commands.'))
     .catch(console.error);
+
+const MASTERCLASS = fs.readFileSync('masterclass.md').toString().split("\n");
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
@@ -29,7 +29,8 @@ client.on('interactionCreate', async interaction => {
     const { commandName } = interaction;
 
     if (commandName === 'quote') {
-        await interaction.reply('Pong!');
+        const element = MASTERCLASS[Math.floor(Math.random() * MASTERCLASS.length)].slice(2)
+        await interaction.reply(element);
     }
 });
 
