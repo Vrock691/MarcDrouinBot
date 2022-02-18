@@ -1,0 +1,66 @@
+
+- je frappe toujours du mauvais côté de la porte, on croit je veux entrer mais je veux sortir
+- j'suis venu au monde la tête en bas dans un ascenceur qui montait, j'ai trouvé le sens de ma vie, le sens de l'humour qui va par-là <- ->
+- c'est un gars ou une fille ? non, est-ce que mon enfant a un look ?
+- je sais pas si c'est un gars ou une fille, il choisira à sa majorité
+- j'ai pondu une comédie musicale
+- dolby stéréo
+- de longs couteaux pointus j'l'ai enfoncé dessus, l'a trouvé en 1000 morceaux, pauvre p'tite fille
+- il voulait isoler sa maison, 2 enfants morts d'un cancer
+- One two tres four
+- les poules yiIIouh
+- danse danse danse danse danse plus
+- en signe de détresse on branle un peu les fesses à gauche à droite
+- c'est un ESSOESSSE (S.O.S)
+- Dansons le cul d'poule
+- Du sang de la sueur et des larmes
+- Un répondeur, donnez lui un soir de sortie par semaine
+- les répondeurs immigrés de votre quartier
+- Je suis un répondeur et j'ai peur de perdre la mémoire
+- Je ne suis pas là EEEEEE
+- Je ne suis pas là, veuillez laisser une message BIIIIIP
+- Désolé beauté faut que tu rappelles pour laisser la fin du message
+- 1er message pas de message
+- Minute minute je suis pas une machine
+- Bah facile à dire ça
+- Je ne suis pas là ceci est un répondeur il y a personne à la maison. Oh shit qu'est-ce que je viens de faire là moi
+- Tu diras à chose qu'il a cassé avec sa blonde et qu'il cherche un autre répondeur
+- Dernière nouvelle: un répondeur se jette par la fenêtre et tue son propriétaire en tombant
+- Je suis un acteur et j'ai peur
+- docteur docteur j'ai peur
+- quand je parle à ma femme, apporte la balayeuse
+- quand je parle à mes kids, ils mettent leur walkman
+- quand je parle à mes chums, ils s'endorment
+- autopsie autopsie analyse
+- quand je sors mes poubelles, j'ai le goût de rester avec elles
+- j'suis allergique à l'eau pis à l'air pur
+- je nourris mes plantes et j'arrose mes chats
+- j'suis paumé nulle part
+- je rap je rap *petits pas de danse*
+- aouuuuuuWOUUUH
+- tinininin
+- tututulutulutu
+- pas vrai mais ça fait du bien
+- présidente des femmes battues qui boivent accusée du meurtre de son mari, sa défense: *hick* aaaAAAArgh
+- *hick* aaaAAAArgh
+- le mec a copié l'armée rouge, il est dans le coma
+- chronique santé beauté: les enfants, avez-vous le teint de peau terne ? vous sentez-vous angoissés ? Coulez-vous un bain d'eau chaude, ajoutez un gros oignon un bouquet garni, sel poivre, carottes, céleri, nouilles pâtes riz, faites-vous tremper toute la nuit dans cette mixture et buvez au réveil. Vous m'en direz des nouvelles !
+- les bienfaits de la natation sèche et de la marche assise
+- j'ai vu tous les films au cinéma: y'a pas de cul, de drogues de violence. Y'a beaucoup mieux à la maison
+- Sylvester l'étalon
+---
+- que mes bisceps se dégonflent
+- jumping jacks
+- thèmes intergalactiques
+- de le situer hors-contexte
+- y'en a pour tous les égouts
+- T-pose
+- trop d'bogoss, YEAH
+- l'amour est dans ta queue
+- elle comprend pas les paroles
+- il sème des tomaaaaates
+- mon mari s'est coupé le gland yiIIouh miam miam
+- un duo toute seule
+- une question de peeling
+- que l'orgie continue AAAAOUAAARIAOUA *END*
+
