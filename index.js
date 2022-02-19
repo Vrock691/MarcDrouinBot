@@ -16,6 +16,10 @@ rest.put(Routes.applicationCommands(process.env.CLIENT_ID), { body: commands })
     .catch(console.error);
 
 const MASTERCLASS = fs.readFileSync('masterclass.md').toString().split("\n");
+function getRandomQuote() {
+    const element = MASTERCLASS[Math.floor(Math.random() * MASTERCLASS.length)].slice(2)
+    return element
+}
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
@@ -29,9 +33,22 @@ client.on('interactionCreate', async interaction => {
     const { commandName } = interaction;
 
     if (commandName === 'quote') {
-        const element = MASTERCLASS[Math.floor(Math.random() * MASTERCLASS.length)].slice(2)
+        const element = getRandomQuote();
         await interaction.reply(element);
     }
 });
 
+
 client.login(process.env.TOKEN);
+
+const express = require('express')
+const app = express()
+const port = 3000
+
+app.get('/', (req, res) => {
+    res.send({ quote: getRandomQuote() })
+})
+
+app.listen(port, () => {
+    console.log(`Example app listening on port ${port}`)
+})
